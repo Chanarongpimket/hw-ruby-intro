@@ -14,11 +14,10 @@ def sum_to_n?(array, n)
   array.combination(2).any? { |a, b| a + b == n }
 end
 
-
 # Part 2
 
 def hello(name)
-  # YOUR CODE HERE
+  "Hello, #{name}"
 end
 
 def starts_with_consonant? s

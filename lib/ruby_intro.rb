@@ -3,16 +3,14 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
   arr.sum
 end
 
 def max_2_sum arr
-  # YOUR CODE HERE
 end
 
 def sum_to_n? arr, n
-  # YOUR CODE HERE
+  
 end
 
 # Part 2
